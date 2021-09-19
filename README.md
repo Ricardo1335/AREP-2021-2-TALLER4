@@ -7,7 +7,7 @@ Tener conocimiento sobre Maven, HEROKU, GIT, Spark y GITHUB.
 
 ## Despliegue en Heroku
 
-[![Heroku App]Heroku](https://arep-taller-4.herokuapp.com)
+[Heroku App](https://arep-taller-4.herokuapp.com)
 
 
 
